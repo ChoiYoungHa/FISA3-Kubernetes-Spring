@@ -7,6 +7,7 @@ Kubernetes Pod에 Spring App을 배포합니다. Deploy를 통하여 트래픽�
 
 ## ⚙ Spring Boot Rest API
 ![2024-10-02 12 24 13](https://github.com/user-attachments/assets/08d9c49d-57a0-41c8-98d6-f4ca50deac9b)
+
 사용자가 접속했을 때 로드벨런서가 각 스프링에 접속했음을 확인할 TEST API를 작성합니다.
 
 
