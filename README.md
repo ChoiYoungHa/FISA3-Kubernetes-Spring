@@ -1,4 +1,4 @@
-# 📌 Spring App Kubernetes Service 배포
+# 📌 MiniKube에 Spring App 배포
 ![image12](https://github.com/user-attachments/assets/5fac71e4-f859-4374-a710-f284af6b8365)
 
 ## 🏓 개요
